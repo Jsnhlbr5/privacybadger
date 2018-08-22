@@ -209,6 +209,10 @@
         "message": "Export user data",
         "description": ""
     },
+    "manage_data_intro": {
+        "message": "Importing:<ul><li>Overwrites general settings</li><li>Combines the lists of sites where your Badger is disabled</li><li>Teaches your Badger about trackers and applies slider customizations</li></ul>",
+        "description": "A brief explanation of what happens when you import Badger user data. Shown above the import/export user data buttons under the Manage Data options page tab."
+    },
     "reset": {
         "message": "Reset",
         "description": "Options page button, under the Manage Data tab"
